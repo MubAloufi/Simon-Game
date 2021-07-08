@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-color: #424874;
+}
+
+#level-title {
+
+  font-size: 5rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: #FF96AD;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: #FF616D;
+}
+
+.green {
+  background-color: #AEF4A4;
+}
+
+.blue {
+  background-color: #77ACF1;
+}
+
+.yellow {
+  background-color: #FFE194;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
